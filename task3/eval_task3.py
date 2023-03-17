@@ -1,4 +1,4 @@
-import json
+ import json
 import argparse
 from rouge import Rouge
 
